@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Potentio_P160N")(type "KiCad")(uri "D:/Bin/GSchool/OneDrive - George Mason University - O365 Production/S6_Fall23/ECE436/project/AudioAmpl/Potentiometer/ul_P160KN-0FC20B5K/KiCADv6/2023-11-22_21-21-22.kicad_sym")(options "")(descr ""))
+  (lib (name "StereoJack")(type "KiCad")(uri "D:/Bin/GSchool/OneDrive - George Mason University - O365 Production/S6_Fall23/ECE436/project/AudioAmpl/StereoJack/FC68133.kicad_sym")(options "")(descr ""))
+)
